@@ -1,16 +1,4 @@
-#<strong>Trabajo Práctico Nº4: Filogenética Molecular</strong>
 
-#BIT120
-
-__Laboratorio de Bioinformática__
-
-__Profesores:__
-- Fernando Danilo González 
-- Eduardo Castro Nallar
-
-                                                                                             -Nombre: Jocelyn López
-                                                                                             -Carrera: Ingeniería en Biotecnología
-                                                                                             -Fecha de entrega: 14/04/16
 
 
 ---
